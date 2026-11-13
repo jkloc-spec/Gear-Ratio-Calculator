@@ -12,7 +12,8 @@ set_site_information(
     planning= ["Design.pdf", "Problem.pdf"]    
     links=["https://github.com/jkloc-spec/Gear-Ratio-Calculator.git"],
 )
-
+hide_debug_information()
+set_website_framed(False)
 min_speed = 0
 max_speed = 100000
 min_torque = 0
