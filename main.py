@@ -10,7 +10,7 @@ set_site_information(
     description = "Gear Ratio Calculator for students",
     sources=["My Teachers and my TA's & Claude"],
     planning= ["Design.pdf", "Problem.pdf"]    
-    links=["https://github.com/..."],
+    links=["https://github.com/jkloc-spec/Gear-Ratio-Calculator.git"],
 )
 
 min_speed = 0
