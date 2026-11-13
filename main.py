@@ -9,7 +9,7 @@ set_site_information(
     author = "Joey Kloc",
     description = "Gear Ratio Calculator for students",
     sources=["My Teachers and my TA's & Claude"],
-    planning= ["Design.pdf", "Problem.pdf"]    
+    planning= ["Design.pdf", "Problem.pdf"],    
     links=["https://github.com/jkloc-spec/Gear-Ratio-Calculator.git"],
 )
 hide_debug_information()
